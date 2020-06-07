@@ -90,14 +90,17 @@ footer {
 
   #column-1 {
     background-color: cornflowerblue;
+    width: 33.33%;
   }
 
   #column-2 {
     background-color: salmon;
+    width: 33.33%;
   }
 
   #column-3 {
     background-color: indianred;
+    width: 33.33%
   }
 
   footer {
